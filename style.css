@@ -48,8 +48,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 
 #output
 {
-	padding: 10px; width:80%;background: rgba(9, 197, 210, 0.859);border-radius: 15px;text-shadow: #007b94c9;
-}
+	padding: 10px; width:80%;background: rgba(9, 197, 210, 0.859);border-radius: 15px;}
 
 .input_div_room_page
 {
