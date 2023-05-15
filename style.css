@@ -11,16 +11,16 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 
 .header
 {
-	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color: rgba(255, 0, 132, 0.927);font-family:'lobster';font-size: 46px;letter-spacing: 10px;margin-top: 76px;
 }
 .header img
 {
-	width: 80px;margin-left: -15px;
+	width: 84px;margin-left: -15px;
 }
 
 .login_div
 {
-	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+	background: rgba(199, 181, 181, 0.8);float: none;border-radius: 15px;
 }
 
 .logo
@@ -48,7 +48,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 
 #output
 {
-	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+	padding: 10px; width:80%;background: rgba(9, 197, 210, 0.859);border-radius: 15px;text-shadow: #007b94c9;
 }
 
 .input_div_room_page
@@ -90,5 +90,5 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 }
 .message_h4
 {
-	padding-left:5px;color:grey;
+	padding-left:5px;color:rgba(5, 92, 164, 0.332);
 }
